@@ -22,9 +22,5 @@
     "source": "https://github.com/nia212/Viva_Reproduce",
     "paper": "https://www.vldb.org/pvldb/vol16/p447-romero.pdf",
     "original_artifact": "https://github.com/stanford-mast/viva-vldb23-artifact"
-  },
-  "entrypoint": {
-    "type": "notebook",
-    "path": "TROVI.md"
   }
 }
