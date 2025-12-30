@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # VIVA
 
 ## Installation instructions
@@ -60,3 +61,6 @@ If you find VIVA and/or Relational Hints useful in your work, please cite:
 =======
 # Viva_Reproduce
 >>>>>>> 7d5341b0a344b4a149a74f331412ca75f86b83ce
+=======
+# VIVA_reproduce
+>>>>>>> 89414e7097109e7f88923cff77b22b2bf77f5f6e
