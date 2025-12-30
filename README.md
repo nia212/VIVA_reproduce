@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VIVA
 
 ## Installation instructions
@@ -56,3 +57,6 @@ If you find VIVA and/or Relational Hints useful in your work, please cite:
   booktitle={PVLDB}
 }
 ```
+=======
+# Viva_Reproduce
+>>>>>>> 7d5341b0a344b4a149a74f331412ca75f86b83ce
