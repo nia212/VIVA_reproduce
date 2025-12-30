@@ -1,0 +1,30 @@
+{
+  "name": "VIVA Reproduction (PVLDB)",
+  "description": "Reproduction of the PVLDB paper: Optimizing Video Analytics with Declarative Model Relationships (Romero et al.). Runs VIVA query workloads on Chameleon Cloud via Trovi.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nia212",
+      "affiliation": "Independent reproduction on Chameleon Cloud",
+      "email": ""
+    }
+  ],
+  "keywords": [
+    "reproducibility",
+    "video analytics",
+    "vldb",
+    "viva",
+    "chameleon cloud",
+    "trovi"
+  ],
+  "links": {
+    "source": "https://github.com/nia212/Viva_Reproduce",
+    "paper": "https://www.vldb.org/pvldb/vol16/p447-romero.pdf",
+    "original_artifact": "https://github.com/stanford-mast/viva-vldb23-artifact"
+  },
+  "entrypoint": {
+    "type": "notebook",
+    "path": "TROVI.md"
+  }
+}
